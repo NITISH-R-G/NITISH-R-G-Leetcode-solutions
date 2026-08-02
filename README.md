@@ -25,4 +25,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/NITISH-R-G/NITISH-R-G-Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/NITISH-R-G/NITISH-R-G-Leetcode-solutions/tree/master/0877-stone-game) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/NITISH-R-G/NITISH-R-G-Leetcode-solutions/tree/master/0877-stone-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/NITISH-R-G/NITISH-R-G-Leetcode-solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/NITISH-R-G/NITISH-R-G-Leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
